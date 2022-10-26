@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   textAlign: TextAlign.center,
                   "WELCOME TO MY PLANT!",
                   style: TextStyle(
-                      color: Colors.white,
+                      color: Color.fromARGB(255, 218, 73, 73),
                       fontWeight: FontWeight.w600,
                       fontSize: 18,
                       background: Paint()
